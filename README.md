@@ -42,10 +42,11 @@ To use the model for sentiment analysis, follow these steps:
 
 ### 3. Inference
 You can perform sentiment analysis using the saved model:
+```python
 from transformers import pipeline
 
 pipe = pipeline("sentiment-analysis", model="output_dir", device=0, return_all_scores=True)
 result = pipe("Your input text goes here.")
-print(result)
+print(result) 
 
 Replace "Your input text goes here." with the text you want to analyze for sentiment.
