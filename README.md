@@ -7,7 +7,7 @@ This repository contains a sentiment analysis model based on the Hugging Face Tr
 - **Model Name**: aubmindlab/bert-base-arabertv02-twitter
 - **Dataset**: ArSAS
 - **Model Architecture**: BERT
-- **Training Time**: [Specify if relevant]
+- **Training Time**: About 1 hour
 - **Performance Metrics**: Macro F1 Score, Accuracy
 
 ## Dependencies
