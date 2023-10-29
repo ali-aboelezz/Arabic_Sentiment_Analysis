@@ -1,4 +1,4 @@
-# Sentiment Analysis Model - README
+# Arabic Sentiment Analysis Model - README
 
 This repository contains a sentiment analysis model based on the Hugging Face Transformers library. The model is designed to classify text data into sentiment categories using the AraBERT model. The model was trained on the ArSAS dataset and utilizes the architecture.
 
