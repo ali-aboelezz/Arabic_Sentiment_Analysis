@@ -28,7 +28,7 @@ You can install these dependencies using the provided `requirements.txt` file or
 
 Before using the model, set up your environment by installing the necessary dependencies. Run the following commands:
 
-```bash
+
 pip install -r requirements.txt
 
 ###  2. Running the Model
